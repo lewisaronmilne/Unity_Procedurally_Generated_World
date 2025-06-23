@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 166a0bd1ce9ff0e4b9e11a21200e9055
+timeCreated: 1474135730
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CrosshairsSprite: {instanceID: 0}
+  - CursorSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
